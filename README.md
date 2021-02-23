@@ -17,15 +17,20 @@
 
 ### ПРОЕКТЫ
 <p> - Q&A (Questions and Answers) <br>
-[GitHub](https://github.com/sasha370/stackoverflow) ,  [Deploy](http://88.214.237.55/)  <br>
+
+[GitHub](https://github.com/sasha370/stackoverflow)
+,  [Deploy](http://88.214.237.55/)  <br>
 Площадка для решения всех проблем (аналог Stackowerflow)  </p> 
 <p> - Online University <br>
+ 
 [GitHub](https://github.com/sasha370/universitetHQ) ,  [Deploy](https://university-hq.herokuapp.com/)  <br>
 Площадка для проведения лекций (аналог Udemy)</p> 
 <p> - Saas (Project Manager) <br> 
+ 
  [GitHub](https://github.com/sasha370/saas-app) ,  [Deploy](https://saas-app-sasha.herokuapp.com/) <br>
 Проект-менеджер для команд</p> 
 <p> - JS проекты <br> 
+ 
 [ Калькулятор калорий ](https://github.com/sasha370/CaloriesCalculatorJS) ,  [Микроблог](https://github.com/sasha370/micropost_JS)  </p> 
 
 #### ОБРАЗОВАНИЕ
