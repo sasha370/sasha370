@@ -4,23 +4,23 @@
 Понимаю цену и ценность времени, поэтому не растрачиваю его в пустую.
 Интересны проекты, которые приносят пользу и улучшают жизнь в целом.
 
-### НАВЫКИ
-1) Ruby on Rails, 1 год ( Коммерческого опыта нет, но умею быстро поглощать информацию и обучаться)
-2) TDD/BDD (тесты нужны и важны при "игре в долгую")
+### Skills
+1) Ruby on Rails, 1+ year ( Commercial experience: 5 months)
+2) TDD/BDD 
 3) GIT 
 3) HTML, CSS, JS 
 4) PostgreSQL, SQL
 5) ActionCable, ActionJob
 6) PivotalTracker
 7) ООП, MVC, REST, DRY
-8) Nginx, Capistrano, Unicorn ( попробовал, но в глубокую палемику о скорости и эффективности не вступлю)))
+8) Nginx, Capistrano, Unicorn
 
-### ПРОЕКТЫ
+### Projects
 <p> 1) Q&A (Questions and Answers) <br>
 
 [GitHub](https://github.com/sasha370/stackoverflow)
-,  [Deploy](http://88.214.237.55/)  <br>
-Площадка для решения всех проблем (аналог Stackowerflow)  </p> 
+<br>
+(analogue Stackowerflow)  </p> 
 <p> 2) Online University <br>
  
 [GitHub](https://github.com/sasha370/universitetHQ) ,  [Deploy](https://university-hq.herokuapp.com/)  <br>
@@ -28,20 +28,20 @@
 <p> 3) Saas (Project Manager) <br> 
  
  [GitHub](https://github.com/sasha370/saas-app) ,  [Deploy](https://saas-app-sasha.herokuapp.com/) <br>
-Проект-менеджер для команд</p> 
-<p> 4) JS проекты <br> 
+Saas project</p> 
+<p> 4) JS projects <br> 
  
-[ Калькулятор калорий ](https://github.com/sasha370/CaloriesCalculatorJS) ,  [Микроблог](https://github.com/sasha370/micropost_JS)  </p> 
+[ Calorie calculator ](https://github.com/sasha370/CaloriesCalculatorJS) ,  [Microblogging](https://github.com/sasha370/micropost_JS)  </p> 
 
-#### ОБРАЗОВАНИЕ
-1) Thinknetica, 2020
-1) RubyGarage, 2020-2021
-1) Хороший программист, 2020
-1) часов 300 провел на UDEMY
-1)  ННГАСУ, Нижний Новгород – магистр, инженер - проектировщик ТГВ,  сентябрь 2000 – июль 2006
+#### Education
+1) Thinknetica ( 6 month), 2020
+1) RubyGarage( 6 month), 2020-2021
+1) Good programmer (2 month), 2020
+1) ~300 hours on UDEMY on-line university
+1)  NNGASU, Nizhny Novgorod, master`s degree, 2000 – 2006
 
-#### ЯЗЫКИ
-Английский (технический). Легко читаю и слушаю, но необходимо подтянуть разговорный и письменный
+#### Languages
+English (technical, B1-B2)
 
 ### О себе
 - около 10 лет проработал в автобизнесе. С нуля и без знаний развил направление сервиса в компании.
