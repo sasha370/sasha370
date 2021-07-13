@@ -1,8 +1,8 @@
 # Karyakin Alex
 
 ### Ruby on Rails разработчик
-Понимаю цену и ценность времени, поэтому не растрачиваю его в пустую.
-Интересны проекты, которые приносят пользу и улучшают жизнь в целом.
+I understand the price and value of time, so I don’t waste it.
+I am interested in projects that benefit and improve life in general.
 
 ### Skills
 1) Ruby on Rails, 1+ year ( Commercial experience: 5 months)
