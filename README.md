@@ -43,11 +43,9 @@ Saas project</p>
 #### Languages
 English (technical, B1-B2)
 
-### О себе
-- около 10 лет проработал в автобизнесе. С нуля и без знаний развил направление сервиса в компании.
-- за последние 9ть лет вырастил из хобби небольшое производство товаров из дерева, стал №1 в области. Сейчас в стадии ликвидации (большая сезонность и тяжелая ситуация с материалами после пандемии)
-- люблю практичность и функциональность в вещах. Нравится проектирование, конструирование как процесс. Именно по этому привлекает программирование.
-- Почему в 36ть решил стать программистом? А почему бы и нет? Я по 10 000 часов не в одной профессии преодолел с успехом, и пришел к выводу, что именно тяга к программированию пронизывала их всех красной ниткой)) <br>
-И это не импульсивное решение, а четкая и взвешенная смена деятельности с осознанием ответственности как перед собой так и перед работодателем.
+### About me
+- I have worked in the auto business for about 10 years. From scratch and without knowledge, he developed the service direction in the company.
+- over the past 9 years I have grown from a hobby a small production of wood products. My company became # 1 in the region in 2019. In a pandemic, I had to close my business and switch to my second favorite business - programming
+- I love practicality and functionality in things. I like design, construction as a process. This is why programming is attracted.
 
 
