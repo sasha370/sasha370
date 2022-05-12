@@ -1,40 +1,22 @@
-# Karyakin Alex
+# Karyakin Alex (@TopTal)
 
 ### Ruby on Rails разработчик
 I understand the price and value of time, so I don’t waste it.
 I am interested in projects that benefit and improve life in general.
 
 ### Skills
-1) Ruby on Rails, 1+ year ( Commercial experience: 5 months)
-2) TDD/BDD 
-3) GIT 
-3) HTML, CSS, JS 
-4) PostgreSQL, SQL
-5) ActionCable, ActionJob
-6) PivotalTracker
-7) ООП, MVC, REST, DRY
-8) Nginx, Capistrano, Unicorn
+1) Ruby on Rails, 1+ year
+2) K8s, Jenkins, Docker
 
-### Projects
-<p> 1) Q&A (Questions and Answers) <br>
 
-[GitHub](https://github.com/sasha370/stackoverflow)
+### Pet Project
+<p> https://diy-plans.ru - A simple online shop selling drawings and instructions for those who like to do something with their hands
 <br>
-(analogue Stackowerflow)  </p> 
-<p> 2) Online University <br>
- 
-[GitHub](https://github.com/sasha370/universitetHQ) ,  [Deploy](https://university-hq.herokuapp.com/)  <br>
-Площадка для проведения лекций (аналог Udemy)</p> 
-<p> 3) Saas (Project Manager) <br> 
- 
- [GitHub](https://github.com/sasha370/saas-app) ,  [Deploy](https://saas-app-sasha.herokuapp.com/) <br>
-Saas project</p> 
-<p> 4) JS projects <br> 
- 
-[ Calorie calculator ](https://github.com/sasha370/CaloriesCalculatorJS) ,  [Microblogging](https://github.com/sasha370/micropost_JS)  </p> 
 
 #### Education
-1) Thinknetica ( 6 month), 2020
+1) Thinknetica: Rails Optimization, 2022
+1) TopTal internarship ( 6 month), 2021-2022
+1) Thinknetica: ProRoR ( 6 month), 2020
 1) RubyGarage( 6 month), 2020-2021
 1) Good programmer (2 month), 2020
 1) ~300 hours on UDEMY on-line university
