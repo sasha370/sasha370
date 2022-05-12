@@ -10,7 +10,8 @@ I am interested in projects that benefit and improve life in general.
 
 
 ### Pet Project
-<p> https://diy-plans.ru - A simple online shop selling drawings and instructions for those who like to do something with their hands
+<p> https://diy-plans.ru - A simple online shop selling drawings and instructions for those who like to do something with their hands.
+  Repo: https://github.com/sasha370/project_store (Work in progress)
 <br>
 
 #### Education
