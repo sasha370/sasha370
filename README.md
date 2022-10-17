@@ -5,8 +5,13 @@ I understand the price and value of time, so I don’t waste it.
 I am interested in projects that benefit and improve life in general.
 
 ### Skills
-1) Ruby on Rails, 1+ year
-2) K8s, Jenkins, Docker
+1) Ruby on Rails, 1,5+ year
+2) K8s, Jenkins, GithubActions, Docker
+3) PostgreSQL/MySQL
+4) RSpec/Capybara
+4) PostgreSQL
+5) HTML/Slim/Haml
+6) Slack, Jira, Unicorn, Capistrano, ElasticSearch, Sidekiq …
 
 
 ### Pet Project
@@ -16,6 +21,7 @@ I am interested in projects that benefit and improve life in general.
 <br>
 
 #### Education
+1) Rails app optimization, 2022
 1) Thinknetica: Rails Optimization, 2022
 1) TopTal internarship ( 6 month), 2021-2022
 1) Thinknetica: ProRoR ( 6 month), 2020
