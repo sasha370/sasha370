@@ -5,7 +5,7 @@ I understand the price and value of time, so I don’t waste it.
 I am interested in projects that benefit and improve life in general.
 
 ### Skills
-1) Ruby on Rails, 2+ yeara
+1) Ruby on Rails, 2+ years
 2) K8s, Jenkins, GthubActions, Docker
 3) PostgreSQL/MySQL
 4) RSpec/Capybara
