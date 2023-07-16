@@ -5,8 +5,8 @@ I understand the price and value of time, so I don’t waste it.
 I am interested in projects that benefit and improve life in general.
 
 ### Skills
-1) Ruby on Rails, 1,5+ year
-2) K8s, Jenkins, GithubActions, Docker
+1) Ruby on Rails, 2+ yeara
+2) K8s, Jenkins, GthubActions, Docker
 3) PostgreSQL/MySQL
 4) RSpec/Capybara
 4) PostgreSQL
@@ -14,10 +14,8 @@ I am interested in projects that benefit and improve life in general.
 6) Slack, Jira, Unicorn, Capistrano, ElasticSearch, Sidekiq …
 
 
-### Pet Project
-<p> https://diy-plans.ru - A simple online shop selling drawings and instructions for those who like to do something with their hands.
-  
-  Repo: https://github.com/sasha370/project_store (Work in progress)
+### Pet Projec  
+Repo: https://github.com/sasha370/project_store (Work in progress)
 <br>
 
 #### Education
