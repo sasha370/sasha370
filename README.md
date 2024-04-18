@@ -1,4 +1,4 @@
-# Karyakin Alex (@TopTal)
+# Kariakin Alex (@TopTal)
 
 ### Ruby on Rails разработчик
 I understand the price and value of time, so I don’t waste it.
