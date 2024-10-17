@@ -1,6 +1,6 @@
 # Kariakin Alex (@TopTal)
 
-### Ruby on Rails разработчик
+### Ruby on Rails developer
 Experienced Ruby on Rails Developer with over 4 years of experience in backend development, CI/CD optimization, and DevOps practices.  
 Proficient in Ruby and backend system design, with basic knowledge of Python.   
 Skilled in optimizing code performance, improving development workflows, and implementing best development practices.   
