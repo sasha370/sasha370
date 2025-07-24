@@ -17,10 +17,11 @@ I have a strong background in performance optimization, enhancing development wo
 
 
 ### About me
-- My career began in the automobile industry, where I spent about 10 years (2006-2016) learning from the ground up. Over time, I progressed to become the head of the supply department and established a road equipment service department from scratch.
-- In 2009, I started a woodworking hobby that I turned into a successful business by 2019, making my company the leader in the region. Unfortunately, I had to close the business during the pandemic, which led me to shift my focus to my second passion—programming.
-- I’m driven by functionality, practicality, and the design process itself, which is why I enjoy programming. The combination of problem-solving and building things from the ground up is what excites me the most.
-- Since 2019, I’ve fully committed to web development and haven’t looked back. I’m constantly learning and expanding my skills to build better solutions.
+At heart, I'm an engineer. I approach every challenge systematically, breaking down problems, analyzing constraints, and selecting the most effective solution for the context. To me, programming languages, frameworks, or tools like Kubernetes, Jenkins, or Azure are just that — tools. The real skill lies in the ability to understand the problem and apply the right approach to solve it.
+My professional journey began in the automobile industry, where I spent a decade growing from the ground up to leading supply and service departments. It was there I learned how to think like an engineer — how to optimize processes, solve real-world problems, and build systems that work.
+Later, I turned a woodworking hobby into a successful business, which became a regional leader by 2019. Running the company demanded the same kind of thinking: designing workflows, solving logistics, and constantly adapting to challenges. The pandemic forced its closure, but it gave me the opportunity to return to something I had long been passionate about — software development.
+Since 2019, I’ve focused on backend engineering and DevOps, working with tools like Python, Ruby on Rails, PostgreSQL, Docker, and AI integrations. I’m comfortable with infrastructure, CI/CD pipelines, Kubernetes, and cloud platforms like Azure.
+Above all, I enjoy building practical, reliable systems and continuously learning new tools to do that better. For me, being a developer is just a modern form of being an engineer — and that’s what I’ve always been.
 
   
 Feel free to ping me in [LinkedIn](www.linkedin.com/in/alexandr-kariakin)
